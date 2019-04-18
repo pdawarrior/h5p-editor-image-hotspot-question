@@ -1,0 +1,11 @@
+{
+  "libraryStrings": {
+    "noImage": "Bạn phải chọn một hình ảnh nền trước khi thêm các điểm nóng.",
+    "noImageTitle": "Không có hình ảnh nền",
+    "done": "Đã xong",
+    "back": "Quay lại",
+    "remove": "Loại bỏ điểm nóng",
+    "rectangle": "Tạo hình tứ giác",
+    "circle": "Tạo hình tròn"
+  }
+}
